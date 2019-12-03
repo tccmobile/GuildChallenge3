@@ -2,9 +2,7 @@
 //  ContentView.swift
 //  GuildChallenge3
 //
-//  Created by William Smith on 11/29/19.
-//  Copyright © 2019 William Smith. All rights reserved.
-//
+
 
 import SwiftUI
 
